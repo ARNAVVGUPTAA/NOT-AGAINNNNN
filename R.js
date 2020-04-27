@@ -3,7 +3,4 @@ class r extends a {
         super(x,0,5,5);
         this.image = loadImage("LETTERS/R.png");
     }
-   display(){
-       super.display();
-   } 
 }

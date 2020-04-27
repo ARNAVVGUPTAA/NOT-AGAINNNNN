@@ -15,7 +15,7 @@ function setup() {
 }
 
 function draw() {
-  background(255,255,255);
+  background(180);
   Engine.update(engine);
 
   A = new a(Math.round(Math.random));
